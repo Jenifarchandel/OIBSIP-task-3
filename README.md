@@ -1,2 +1,2 @@
 # OIBSIP-task-3
-html css javascript
+ created To-Do web app using html css & javascript
